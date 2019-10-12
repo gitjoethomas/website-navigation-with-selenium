@@ -1,0 +1,5 @@
+Automated website navigation, using Selenium, and some HTML navigation.
+
+Also makes use of automated logins, python's keyring package, and automated cookie load-ins.
+
+This project works properly, but was abandoned before it could be refined because I realised it could be used to breach terms of service.
